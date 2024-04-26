@@ -1,0 +1,24 @@
+{
+  "recommendations": [
+    "antfu.browse-lite",
+    "antfu.icons-carbon",
+    "catppuccin.catppuccin-vsc-icons",
+    "streetsidesoftware.code-spell-checker",
+    "at-9420.console-helper",
+    "dbaeumer.vscode-eslint",
+    "github.copilot",
+    "github.copilot-chat",
+    "eamodio.gitlens",
+    "antfu.iconify",
+    "ms-vscode.vscode-typescript-next",
+    "yzhang.markdown-all-in-one",
+    "idered.npm",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "antfu.vite",
+    "antfu.theme-vitesse",
+    "vitest.explorer",
+    "vue.volar",
+    "antfu.where-am-i"
+  ]
+}
